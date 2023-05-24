@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imaginebuna.png</file>
+    </qresource>
+</RCC>
