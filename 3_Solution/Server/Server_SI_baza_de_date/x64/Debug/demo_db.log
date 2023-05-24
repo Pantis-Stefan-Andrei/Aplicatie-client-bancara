@@ -1,0 +1,3 @@
+﻿  DAL.cpp
+C:\Users\40774\Desktop\demo_db-main\DAL.cpp(768): warning C4715: 'DAL::getConturiBy': not all control paths return a value
+  demo_db.vcxproj -> C:\Users\40774\Desktop\demo_db-main\x64\Debug\demo_db.exe
